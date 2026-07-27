@@ -1,6 +1,6 @@
 ## Hi, I'm Aliyan 👋
 
-**Associate Software Engineer (Backend + AI)** at **Dubizzle Labs** · Data Science graduate from FAST NUCES.
+**Software Engineer (Backend + AI)** at **Dubizzle Labs** · Data Science graduate from FAST NUCES.
 
 I build backend systems at scale and work on applied AI — LLMs, RAG, and the modern GenAI stack.
 
